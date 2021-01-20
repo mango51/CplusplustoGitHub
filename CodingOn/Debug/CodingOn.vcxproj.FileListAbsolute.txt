@@ -1,0 +1,3 @@
+C:\Users\강효민\source\repos\CodingOn\Debug\CodingOn.exe
+C:\Users\강효민\source\repos\CodingOn\Debug\CodingOn.pdb
+C:\Users\강효민\source\repos\CodingOn\Debug\advancedPracticeWordRelay.cpp
