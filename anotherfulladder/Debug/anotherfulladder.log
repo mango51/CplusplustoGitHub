@@ -1,0 +1,6 @@
+﻿  fulladdercodes.cpp
+C:\Users\강효민\source\repos\anotherfulladder\fulladdercodes.cpp(104,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\강효민\source\repos\anotherfulladder\fulladdercodes.cpp(114,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\강효민\source\repos\anotherfulladder\fulladdercodes.cpp(133,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\강효민\source\repos\anotherfulladder\fulladdercodes.cpp(135,15): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  anotherfulladder.vcxproj -> C:\Users\강효민\source\repos\anotherfulladder\Debug\anotherfulladder.exe
